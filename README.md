@@ -1,1 +1,1 @@
-# Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation
+# [CVPR2026] Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation
