@@ -1,13 +1,18 @@
 <div align="center">
-  <img src="fig/logo.png" width="250px" height="250px">
+  <img src="fig/logo.png" width="300px" height="300px">
 </div>
 
 # [CVPR2026] Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation
-Official PyTorch implementation of **GKD**, as presented in our paper:
-Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation
-by [Chonghua Lv](https://scholar.google.com/citations?user=VCdfb0gAAAAJ&hl=zh-CN)<sup>1</sup>, [Dong Zhao](https://scholar.google.com/citations?user=j_UjUUUAAAAJ&hl=zh-CN)<sup>2</sup>, Shuang Wang<sup>1</sup>, Dou Quan<sup>1</sup>, Ning Huyan<sup>1</sup>, Nicu Sebe<sup>2</sup>, Zhun Zhong<sup>3</sup>
 
-<sup>1</sup>Xidian University,  <sup>2</sup>University of Trento,  <sup>3</sup>Hefei University of Technology
+[![arXiv](https://img.shields.io/badge/Paper-arXiv:2603.02554-Green)](https://arxiv.org/pdf/2603.02554) [![BibTex](https://img.shields.io/badge/Paper-BibTex-yellow)](#bibtex)
+
+Official PyTorch implementation of **GKD**, as presented in our paper:
+
+[Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation](https://arxiv.org/pdf/2603.02554)
+
+by [Chonghua Lv](https://scholar.google.com/citations?user=VCdfb0gAAAAJ&hl=zh-CN)<sup>1</sup>, [Dong Zhao](https://scholar.google.com/citations?user=j_UjUUUAAAAJ&hl=zh-CN)<sup>2</sup>, Shuang Wang<sup>1</sup>, Dou Quan<sup>1</sup>, Ning Huyan<sup>3</sup>, Nicu Sebe<sup>2</sup>, Zhun Zhong<sup>3</sup>
+
+<sup>1</sup>Xidian University,  <sup>2</sup>University of Trento,  <sup>3</sup>Tsinghua University, <sup>4</sup>Hefei University of Technology
 
 ---
 
@@ -46,10 +51,10 @@ by [Chonghua Lv](https://scholar.google.com/citations?user=VCdfb0gAAAAJ&hl=zh-CN
 We provide the models distilled from DINOv2:
 | Model | Backbone | GTA5 |  cityscapes  | Potsdam-RGB |
 | --------------- | --------------- | ------------- |------------- | ------------- |
-| DeiT  | ViT-B | [link]() | [link]() | [link]() |
-| DeiT  | ViT-S | [link]() | [link]() | [link]() |
-| DINO  | ViT-B | [link]() | [link]() | [link]() |
-| DINO  | ViT-S | [link]() | [link]() | [link]() |
+| DeiT  | ViT-B | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) |
+| DeiT  | ViT-S | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) |
+| DINO  | ViT-B | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) |
+| DINO  | ViT-S | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) |
 
 ## :wrench:Setup Environment
 
@@ -75,7 +80,6 @@ Our codebase is heavily build upon [Proteus](https://github.com/BeSpontaneous/Pr
 ## :memo:Contact
 If you have any questions or feedback, feel free to reach out:
 - Chonghua Lv: youngerlv@stu.xidian.edu.cn
-- Dong Zhao  : 
 
 ## :chart_with_upwards_trend:Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=Younger-hua/GKD&type=Date)](https://star-history.com/#Younger-hua/GKD&Date)
