@@ -10,7 +10,7 @@ Official PyTorch implementation of **GKD**, as presented in our paper:
 
 [Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation](https://arxiv.org/pdf/2603.02554)
 
-by [Chonghua Lv](https://scholar.google.com/citations?user=VCdfb0gAAAAJ&hl=zh-CN)<sup>1</sup>, [Dong Zhao](https://scholar.google.com/citations?user=j_UjUUUAAAAJ&hl=zh-CN)<sup>2</sup>, Shuang Wang<sup>1</sup>, Dou Quan<sup>1</sup>, Ning Huyan<sup>3</sup>, Nicu Sebe<sup>2</sup>, Zhun Zhong<sup>3</sup>
+by [Chonghua Lv](https://scholar.google.com/citations?user=VCdfb0gAAAAJ&hl=zh-CN)<sup>1</sup>, [Dong Zhao](https://scholar.google.com/citations?user=j_UjUUUAAAAJ&hl=zh-CN)<sup>2</sup>, Shuang Wang<sup>1</sup>, Dou Quan<sup>1</sup>, Ning Huyan<sup>3</sup>, Nicu Sebe<sup>2</sup>, Zhun Zhong<sup>4</sup>
 
 <sup>1</sup>Xidian University,  <sup>2</sup>University of Trento,  <sup>3</sup>Tsinghua University, <sup>4</sup>Hefei University of Technology
 
