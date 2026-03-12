@@ -2,7 +2,7 @@
 
 ## Dataset Preparation
 
-The Preparation is similar as [DDB](https://github.com/xiaoachen98/DDB).
+The Preparation is similar as [Rein](https://github.com/w1oves/Rein/tree/train).
 
 **UrbanSyn**: Download all image and label packages from [UrbanSyn](http://www.urbansyn.org/#loaded) and extract them to `data/urbansyn`.
 

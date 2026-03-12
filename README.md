@@ -1,3 +1,11 @@
+<!--
+ * @Descripttion: 
+ * @Author: younger
+ * @version: 
+ * @Date: 2026-03-01 10:43:56
+ * @LastEditors: younger
+ * @LastEditTime: 2026-03-12 23:33:23
+-->
 <div align="center">
   <img src="fig/logo.png" width="300px" height="300px">
 </div>
@@ -48,13 +56,13 @@ by [Chonghua Lv](https://scholar.google.com/citations?user=VCdfb0gAAAAJ&hl=zh-CN
 
 ---
 
-We provide the models distilled from DINOv2:
+We provide the models distilled from DINOv2 and task learning:
 | Model | Backbone | GTA5 |  cityscapes  | Potsdam-RGB |
 | --------------- | --------------- | ------------- |------------- | ------------- |
-| DeiT  | ViT-B | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) |
-| DeiT  | ViT-S | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) |
-| DINO  | ViT-B | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) |
-| DINO  | ViT-S | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) |
+| DeiT  | ViT-B | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) [Hugging Face](https://huggingface.co/yongers/GKD/tree/main) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) [Hugging Face](https://huggingface.co/yongers/GKD/tree/main) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) [Hugging Face](https://huggingface.co/yongers/GKD/tree/main) |
+| DeiT  | ViT-S | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) [Hugging Face](https://huggingface.co/yongers/GKD/tree/main) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) [Hugging Face](https://huggingface.co/yongers/GKD/tree/main) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) [Hugging Face](https://huggingface.co/yongers/GKD/tree/main) |
+| DINO  | ViT-B | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) [Hugging Face](https://huggingface.co/yongers/GKD/tree/main) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) [Hugging Face](https://huggingface.co/yongers/GKD/tree/main) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) [Hugging Face](https://huggingface.co/yongers/GKD/tree/main) |
+| DINO  | ViT-S | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) [Hugging Face](https://huggingface.co/yongers/GKD/tree/main) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) [Hugging Face](https://huggingface.co/yongers/GKD/tree/main) | [Baidu Netdisk](https://pan.baidu.com/s/1OiPn1Wc9-s23WkbVE8CnTw?pwd=habv) [Hugging Face](https://huggingface.co/yongers/GKD/tree/main) |
 
 ## :wrench:Setup Environment
 
