@@ -4,7 +4,7 @@
  * @version: 
  * @Date: 2026-03-01 10:43:56
  * @LastEditors: younger
- * @LastEditTime: 2026-03-12 23:33:23
+ * @LastEditTime: 2026-03-12 23:37:05
 -->
 <div align="center">
   <img src="fig/logo.png" width="300px" height="300px">
@@ -27,7 +27,7 @@ by [Chonghua Lv](https://scholar.google.com/citations?user=VCdfb0gAAAAJ&hl=zh-CN
 :bell: **News:**
 -
 
-* [2026-03-02] We release the training code and model weights:zap:.
+* [2026-03-02] :zap::zap::zap:We release the training code and model weights.
 
 * [2026-02-21] :fire::fire::fire:GKD has been accepted by **CVPR26**.
 
